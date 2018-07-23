@@ -95,10 +95,14 @@ stackoverflow:
 
 #Mobile apps section is optional
 apps:
- - name: Chuck the Quiz
+ - name: Jooto
    platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+   url: https://play.google.com/store/apps/details?id=com.jooto.app
+   description: Task project management tool
+ - name: Enja
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=com.enja
+   description: Music social network
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
